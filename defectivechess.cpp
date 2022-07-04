@@ -1,3 +1,4 @@
+// defective chess board
 #include<iostream>
 using namespace std;
 
